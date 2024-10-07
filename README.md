@@ -1,0 +1,1 @@
+Threads / iş parçacığı = bir programın yürütme yolu. Gerçekleştirmek için birden fazla iş parçacığı kullanabiliriz programımızın farklı görevleri aynı anda kullanılabilir. Geçerli iş parçacığı "main" iş parçacığıdır. System.Threading'i kullanmak gerekir.
