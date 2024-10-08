@@ -1,0 +1,15 @@
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Threads\bin\Debug\net8.0\C# Threads.exe
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Threads\bin\Debug\net8.0\C# Threads.deps.json
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Threads\bin\Debug\net8.0\C# Threads.runtimeconfig.json
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Threads\bin\Debug\net8.0\C# Threads.dll
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Threads\bin\Debug\net8.0\C# Threads.pdb
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Threads\obj\Debug\net8.0\C# Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Threads\obj\Debug\net8.0\C# Threads.AssemblyInfoInputs.cache
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Threads\obj\Debug\net8.0\C# Threads.AssemblyInfo.cs
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Threads\obj\Debug\net8.0\C# Threads.csproj.CoreCompileInputs.cache
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Threads\obj\Debug\net8.0\C# Threads.sourcelink.json
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Threads\obj\Debug\net8.0\C# Threads.dll
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Threads\obj\Debug\net8.0\refint\C# Threads.dll
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Threads\obj\Debug\net8.0\C# Threads.pdb
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Threads\obj\Debug\net8.0\C# Threads.genruntimeconfig.cache
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Threads\obj\Debug\net8.0\ref\C# Threads.dll
