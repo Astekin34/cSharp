@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\isado\\Documents\\GitHub\\cSharp\u0130leri\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A8D3CE2-7E90-44F0-82AA-4F49586569E6}|C# Threads\\C# Threads.csproj|c:\\users\\isado\\documents\\github\\csharp\u0130leri\\c# threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A8D3CE2-7E90-44F0-82AA-4F49586569E6}|C# Threads\\C# Threads.csproj|solutionrelative:c# threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8150CED1-F720-45B6-8113-23FDBEE8A3C2}|C# Volatile\\C# Volatile.csproj|c:\\users\\isado\\documents\\github\\csharp\u0130leri\\c# volatile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8150CED1-F720-45B6-8113-23FDBEE8A3C2}|C# Volatile\\C# Volatile.csproj|solutionrelative:c# volatile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8150CED1-F720-45B6-8113-23FDBEE8A3C2}|C# Volatile\\C# Volatile.csproj|c:\\users\\isado\\documents\\github\\csharp\u0130leri\\c# volatile\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8150CED1-F720-45B6-8113-23FDBEE8A3C2}|C# Volatile\\C# Volatile.csproj|solutionrelative:c# volatile\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Workers.cs",
+              "DocumentMoniker": "C:\\Users\\isado\\Documents\\GitHub\\cSharp\u0130leri\\C# Volatile\\Workers.cs",
+              "RelativeDocumentMoniker": "C# Volatile\\Workers.cs",
+              "ToolTip": "C:\\Users\\isado\\Documents\\GitHub\\cSharp\u0130leri\\C# Volatile\\Workers.cs",
+              "RelativeToolTip": "C# Volatile\\Workers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:27:33.671Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\isado\\Documents\\GitHub\\cSharp\u0130leri\\C# Threads\\Program.cs",
-              "RelativeDocumentMoniker": "C# Threads\\Program.cs",
-              "ToolTip": "C:\\Users\\isado\\Documents\\GitHub\\cSharp\u0130leri\\C# Threads\\Program.cs",
-              "RelativeToolTip": "C# Threads\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBUAAAA2AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\isado\\Documents\\GitHub\\cSharp\u0130leri\\C# Volatile\\Program.cs",
+              "RelativeDocumentMoniker": "C# Volatile\\Program.cs",
+              "ToolTip": "C:\\Users\\isado\\Documents\\GitHub\\cSharp\u0130leri\\C# Volatile\\Program.cs",
+              "RelativeToolTip": "C# Volatile\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T11:34:05.415Z",
+              "WhenOpened": "2024-10-08T12:56:16.186Z",
               "EditorCaption": ""
             }
           ]

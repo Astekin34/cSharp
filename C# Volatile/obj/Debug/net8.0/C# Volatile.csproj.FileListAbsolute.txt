@@ -1,0 +1,15 @@
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Volatile\obj\Debug\net8.0\C# Volatile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Volatile\obj\Debug\net8.0\C# Volatile.AssemblyInfoInputs.cache
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Volatile\obj\Debug\net8.0\C# Volatile.AssemblyInfo.cs
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Volatile\obj\Debug\net8.0\C# Volatile.csproj.CoreCompileInputs.cache
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Volatile\obj\Debug\net8.0\C# Volatile.sourcelink.json
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Volatile\bin\Debug\net8.0\C# Volatile.exe
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Volatile\bin\Debug\net8.0\C# Volatile.deps.json
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Volatile\bin\Debug\net8.0\C# Volatile.runtimeconfig.json
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Volatile\bin\Debug\net8.0\C# Volatile.dll
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Volatile\bin\Debug\net8.0\C# Volatile.pdb
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Volatile\obj\Debug\net8.0\C# Volatile.dll
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Volatile\obj\Debug\net8.0\refint\C# Volatile.dll
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Volatile\obj\Debug\net8.0\C# Volatile.pdb
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Volatile\obj\Debug\net8.0\C# Volatile.genruntimeconfig.cache
+C:\Users\isado\Documents\GitHub\cSharpİleri\C# Volatile\obj\Debug\net8.0\ref\C# Volatile.dll
