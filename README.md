@@ -1,4 +1,4 @@
-- Threads / iş parçacığı = bir programın yürütme yolu. Gerçekleştirmek için birden fazla iş parçacığı kullanabiliriz programımızın farklı görevleri aynı anda kullanılabilir. Geçerli iş parçacığı "main" iş parçacığıdır. System.Threading; kodunu en başta kullanmak gerekir.
+Threads / iş parçacığı = bir programın yürütme yolu. Gerçekleştirmek için birden fazla iş parçacığı kullanabiliriz programımızın farklı görevleri aynı anda kullanılabilir. Geçerli iş parçacığı "main" iş parçacığıdır. System.Threading; kodunu en başta kullanmak gerekir.
  
 Volatile, C# dilindeki anahtar sözcüklerden biridir. Üye değişken bildirimi ile birlikte kullanılır. volatile anahtar sözcüğü yalnızca aşağıdaki değişken tipleri ile birlikte kullanılabilir.
 - Herhangi bir referans tipindeki değişken ile
