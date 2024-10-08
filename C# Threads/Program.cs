@@ -1,4 +1,5 @@
 ﻿using System;
+// Threadler ile çalışırken alttaki .Threading kütüphanesi kullanılır.
 using System.Threading;
 
 // Thread kullanımı

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# Threads")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d83508aa6aac3d35489f25583cf5a5eb8bcbc6a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1c7fedde9cbf69c68612738c0ae095e12c1de6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# Threads")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# Threads")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
