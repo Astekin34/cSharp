@@ -4,7 +4,7 @@ using System.Threading;
 
 // Thread kullanımı
 
-namespace MyFirstProgram
+namespace IsaProgram
 {
     class Program
     {
@@ -23,7 +23,7 @@ namespace MyFirstProgram
             thread1.Join(); // iki sayaç bitmeden main thread is complete çıktısını verme.
             thread2.Join();
 
-            Console.WriteLine(mainThread.Name + " is complete!");
+            Console.WriteLine(mainThread.Name + " tamamlandı!");
             Console.ReadKey();
 
         }
@@ -31,21 +31,21 @@ namespace MyFirstProgram
         {
             for (int i = 10; i >= 0; i--)
             {
-                Console.WriteLine($"Timer #1 :{i} seconds");
+                Console.WriteLine($"Timer #1 :{i} saniye");
                 Thread.Sleep(1000);
 
             }
-            Console.WriteLine($"Timer #1 is complete!");
+            Console.WriteLine($"Timer #1 tamamlandı!");
         }
         public static void Countup()
         {
             for (int i = 0; i <= 10; i++)
             {
-                Console.WriteLine($"Timer #2 :{i} seconds");
+                Console.WriteLine($"Timer #2 :{i} saniye");
                 Thread.Sleep(1000);
 
             }
-            Console.WriteLine($"Timer #2 is complete!");
+            Console.WriteLine($"Timer #2 tamamlandı!");
         }
 
     }
