@@ -1,79 +1,22 @@
 ﻿// Volatile Kullanımı
 
-// 1.Örnek
-using System;
-using System.Threading;
-
-partial class Program
+public class Worker
 {
-    volatile static bool Durum;
-    volatile static int Sayi = 1;
-
-    static void Main(string[] args)
+    /* Volatile anahtar kelimesi, derleyiciye bu verilerin
+     üyeye birden fazla iş parçacığı tarafından eriştiğini söyler. */
+    private volatile bool _shouldStop;
+    // thread başladığınde bu method çağrılır.
+    public void DoWork()
     {
-        // Başlangıçta Sayi'nın değerini yazdır
-        Console.WriteLine(Sayi);
-
-        Thread t = new Thread(new ThreadStart(() =>
+        bool work = false;
+        while (!_shouldStop)
         {
-            Sayi = 5;
-            Durum = true; // İş parçacığı çalıştığında Sayi 5'e ayarlanır ve durum true olur.
-        }));
-
-        t.Start(); // İş parçacığını çalıştırır.
-
-        while (true)
-        {
-            if (Durum)
-            {
-                Sayi += 5;
-                Console.WriteLine(Sayi); // İş parçacığı çalışıp durum true olduğunda Sayi'ya 5 ekler ve yeni değeri yazdırır.
-                break;
-            }
-
-           
+            work = !work; // iş yap
         }
-
-        // İş parçacığının bitmesini bekleyin.
-        t.Join();
-
-        Console.WriteLine("Program has completed. Press any key to exit...");
-        Console.ReadKey(); // Kullanıcıdan bir tuşa basmasını bekleyin.
+        Console.WriteLine("Worker thread: terminating gracefully.");
+    }
+    public void RequestStop()
+    {
+        _shouldStop = true;
     }
 }
-
-
-
-
-// 2.Örnek
-
-
-/*public class WorkerThreadExample : Worker
-{
-    public static void Main()
-    {
-        // Worker objesini oluştur. Bu threadi başlatmaz.
-        Worker workerObject = new Worker();
-        Thread workerThread = new Thread(workerObject.DoWork);
-
-        // Worker threadini başlatma.
-        workerThread.Start();
-        Console.WriteLine("Main thread: starting worker thread...");
-
-        // worker threadi başlayana kadar döngüye al.
-        while (!workerThread.IsAlive)
-            ;
-
-        // main threadi 3000 milisaniye(3 saniye) bekleterek worked threadin çalışmasına izin ver.
-    /*    Thread.Sleep(3000);
-
-        // Worked threadin kendisini durdurmasını söyle.
-        workerObject.RequestStop();
-
-        // Thread.Join() methodu ile bir thread bitene kadar diğerinin çalışmasını engelle.
-   /*     workerThread.Join();
-        Console.WriteLine("Main thread: worker thread has terminated.");
-        Console.ReadKey();
-    }
-
-}*/

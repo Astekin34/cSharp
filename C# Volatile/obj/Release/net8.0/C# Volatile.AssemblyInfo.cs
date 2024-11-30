@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# Volatile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d83508aa6aac3d35489f25583cf5a5eb8bcbc6a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a6c5610b1b1e779fe9f17c4679849cce70fc37b")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# Volatile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# Volatile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
